@@ -1,6 +1,8 @@
 # Week 1: Computer Introduction and Components
 ALGURAWY CYBERHUB ACADEMY  
-Sponsored by DR. BUKAR USMAN FOUNDATION  
+Sponsored by DR. BUKAR USMAN FOUNDATION 
+                  &
+                IRIAD
 
 ---
 
@@ -63,3 +65,9 @@ Software refers to instructions that tell the hardware what to do.
 - **Folders**: Containers to organize files.  
 
 ### Example Structure
+SIWES/
+Week_1/
+Documents/
+Practical/
+Assignments/
+Evidence/
