@@ -62,3 +62,22 @@ Documents/
 Practical/
 Assignments/
 Evidence/
+
+
+---
+
+## 🧪 Practical Demonstration
+During the Practical session the students should be able to 
+1. Show the **motherboard** and point out CPU socket, RAM slots, expansion slots, CMOS battery.    
+2. Show input/output devices and explain their roles.  
+3. Assemble and disassemble a desktop computer safely.  
+4. Boot into BIOS/UEFI to show CMOS battery function.  
+5. Compare Windows and Ubuntu interfaces.  
+6. Create, copy, move, rename, and delete files/folders.  
+
+---
+
+## 📜 Assignment
+- Submit photos/screenshots of hardware components identified during class.  
+- Write a short report explaining the function of CPU, RAM, motherboard, and CMOS battery.  
+- Create a folder structure for SIWES activities and upload evidence to GitHub Classroom.  
