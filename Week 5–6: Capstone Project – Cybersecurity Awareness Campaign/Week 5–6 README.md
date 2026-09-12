@@ -48,7 +48,7 @@ Groups may choose one of the following focus areas:
 ---
 
 ## 📘 Group Roles
-Each group of 5 should assign roles:
+Each group of 10 should assign roles:
 - **Content Researcher** → Gathers facts and examples.  
 - **Designer** → Creates posters/infographics.  
 - **Video/Skits Producer** → Directs short video or role-play.  
