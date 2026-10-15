@@ -39,7 +39,7 @@ Each group must produce:
 
 ## 📘 Suggested Topics
 Groups may choose one of the following focus areas:
--GROUP 1  **[Phishing Awareness](ca://s?q=Capstone_Project_on_Phishing_Awareness)** → How to spot fake emails and links.  
+-GROUP 1 **[Phishing Awareness](ca://s?q=Capstone_Project_on_Phishing_Awareness)** → How to spot fake emails and links.  
 - GROUP 2 **[Password Hygiene](ca://s?q=Capstone_Project_on_Password_Hygiene)** → Importance of strong, unique passwords.  
 -GROUP 3 **[Safe Browsing](ca://s?q=Capstone_Project_on_Safe_Browsing)** → Avoiding malicious websites and downloads.  
 -GROUP 4 **[Social Engineering](ca://s?q=Capstone_Project_on_Social_Engineering)** → Recognizing manipulation tactics.  
