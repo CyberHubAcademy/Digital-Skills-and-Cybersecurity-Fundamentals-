@@ -1,6 +1,5 @@
 # Week 2: Package Installation & Management
 # ALGURAWY CYBERHUB ACADEMY  
-# Sponsored by DR. BUKAR USMAN FOUNDATION & IRIAD 
 
 ---
 
