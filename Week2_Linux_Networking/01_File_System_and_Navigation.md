@@ -1,6 +1,5 @@
 # Week 2: File System and Navigation
 # ALGURAWY CYBERHUB ACADEMY  
-# Sponsored by DR. BUKAR USMAN FOUNDATION & IRIAD  
 
 ---
 
