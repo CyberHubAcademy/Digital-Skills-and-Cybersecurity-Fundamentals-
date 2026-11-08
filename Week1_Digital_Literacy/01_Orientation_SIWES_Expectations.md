@@ -1,7 +1,5 @@
 # Programme Orientation & SIWES Expectations
 ALGURAWY CYBERHUB ACADEMY  
-# Sponsored by DR. BUKAR USMAN FOUNDATION & IRIAD  
-
 ---
 
 ## 🎯 Objectives
