@@ -1,7 +1,5 @@
 # Week 2: Bash Scripting Basics Complete Beginner to Advanced Guide
 # ALGURAWY CYBERHUB ACADEMY  
-# Sponsored by DR. BUKAR USMAN FOUNDATION & IRIAD  
-
 
 ## **Objectives**
 
