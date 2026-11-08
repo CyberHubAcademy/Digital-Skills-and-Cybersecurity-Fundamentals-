@@ -1,6 +1,5 @@
 # Week 2: File Permissions
 # ALGURAWY CYBERHUB ACADEMY  
-# Sponsored by DR. BUKAR USMAN FOUNDATION & IRIAD  
 
 ---
 
