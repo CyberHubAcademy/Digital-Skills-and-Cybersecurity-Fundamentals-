@@ -1,6 +1,6 @@
 # Week 1: Internet Communication & Email
 # ALGURAWY CYBERHUB ACADEMY  
-# Sponsored by DR. BUKAR USMAN FOUNDATION & IRIAD  
+
 
 ---
 
