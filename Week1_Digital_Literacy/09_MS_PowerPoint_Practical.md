@@ -1,6 +1,5 @@
 # Week 1: Microsoft PowerPoint Practical
 # ALGURAWY CYBERHUB ACADEMY  
-# Sponsored by DR. BUKAR USMAN FOUNDATION  
 
 ---
 
