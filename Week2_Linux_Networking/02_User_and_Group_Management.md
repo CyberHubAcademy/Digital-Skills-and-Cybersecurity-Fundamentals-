@@ -1,6 +1,5 @@
 # Week 2: User and Group Management
 # ALGURAWY CYBERHUB ACADEMY  
-# Sponsored by DR. BUKAR USMAN FOUNDATION & IRIAD  
 
 ---
 
