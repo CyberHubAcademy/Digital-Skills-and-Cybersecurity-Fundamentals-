@@ -1,8 +1,6 @@
 
 # Week 1: Computer Introduction and Components
 # ALGURAWY CYBERHUB ACADEMY  
-# Sponsored by DR. BUKAR USMAN FOUNDATION & IRIAD  
-
 ---
 
 ## 🎯 Learning Objectives
